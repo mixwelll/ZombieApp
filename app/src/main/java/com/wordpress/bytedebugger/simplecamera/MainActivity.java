@@ -78,6 +78,8 @@ public class MainActivity extends Activity {
         });
 
         //btn to spawn zombies
+
+        //koreans are just bts pawns
         Button btSpawn = (Button) findViewById(R.id.spawnZombies);
         btSpawn.setOnClickListener(new View.OnClickListener() {
             @Override
